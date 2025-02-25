@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+imgaug>=0.4.0
+PyYAML
+scikit-image>=0.16.1
+scipy
+#-e .
